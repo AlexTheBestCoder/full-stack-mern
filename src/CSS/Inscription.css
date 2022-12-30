@@ -1,0 +1,41 @@
+.inscription-container-card {
+    display: flex;
+    height: 761px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 17px;
+    padding-left: 1%;
+    margin-bottom: 14px;
+  }
+  .inscription-content-card-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 49.5%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem ;
+    margin-top: 15px;
+    margin-bottom: 17px;
+    background-color: #0069ff;
+  }
+  
+  
+  /* @media screen and (max-width: 1000px) {
+    .container-card {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      
+    }
+    
+  } */
+  
+  #Layer_12 {
+    height: 200px;
+  }
+  button:hover {
+    cursor: pointer;
+  }

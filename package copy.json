@@ -1,0 +1,13 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "React & Node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "client": "cd client && npm start"
+  },
+  "author": "alexgeek",
+  "license": "ISC"
+}
